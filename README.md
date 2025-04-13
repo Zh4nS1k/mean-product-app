@@ -43,7 +43,7 @@ npm install
 
 # Запуск сервера
 cd backend
-npm start
+node backend/server.js
 
 # Запуск React frontend
 cd ../
